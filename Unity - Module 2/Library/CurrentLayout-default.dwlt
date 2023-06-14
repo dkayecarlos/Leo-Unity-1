@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 56
+  controlID: 45
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -226,7 +226,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 57
+  controlID: 46
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -251,7 +251,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 112
+  controlID: 47
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -318,13 +318,13 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Materials
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Materials
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Danielle\Documents\GitHub\CMUnity\Leo-Unity-1\Unity
     - Module 2
@@ -332,9 +332,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 8}
-    m_SelectedIDs: c43a0000
-    m_LastClickedID: 15044
-    m_ExpandedIDs: 00000000c43a000000ca9a3b
+    m_SelectedIDs: da3a0000
+    m_LastClickedID: 15066
+    m_ExpandedIDs: 00000000c43a0000f23a000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -487,7 +487,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 52fbffff
+      m_ExpandedIDs: 22f7ffff52fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -548,9 +548,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 1.5956908, y: 0.37752497, z: 1.6262751}
+    m_Target: {x: 2.914633, y: 1.5185493, z: -3.0448642}
     speed: 2
-    m_Value: {x: 1.5956908, y: 0.37752497, z: 1.6262751}
+    m_Value: {x: 2.914633, y: 1.5185493, z: -3.0448642}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -597,13 +597,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.06873069, y: 0.92643833, z: -0.20795739, w: -0.30618873}
+    m_Target: {x: -0.059329696, y: -0.8619053, z: 0.10376027, w: -0.49280018}
     speed: 2
-    m_Value: {x: -0.06873036, y: 0.9264339, z: -0.20795639, w: -0.30618727}
+    m_Value: {x: -0.05901759, y: -0.8633717, z: 0.103936814, w: -0.4902076}
   m_Size:
-    m_Target: 3.66517
+    m_Target: 0.70568526
     speed: 2
-    m_Value: 3.66517
+    m_Value: 0.40568525
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -675,17 +675,17 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
-    m_HBaseRangeMin: -291
-    m_HBaseRangeMax: 291
-    m_VBaseRangeMin: -144.5
-    m_VBaseRangeMax: 144.5
+    m_HBaseRangeMin: -194
+    m_HBaseRangeMax: 194
+    m_VBaseRangeMin: -89.333336
+    m_VBaseRangeMax: 89.333336
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
     m_VAllowExceedBaseRangeMax: 1
     m_ScaleWithWindow: 0
-    m_HSlider: 0
-    m_VSlider: 0
+    m_HSlider: 1
+    m_VSlider: 1
     m_IgnoreScrollWheelUntilClicked: 0
     m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
@@ -695,24 +695,24 @@ MonoBehaviour:
     m_DrawArea:
       serializedVersion: 2
       x: 0
-      y: 0
+      y: 21
       width: 582
-      height: 289
-    m_Scale: {x: 1.4357501, y: 1.4357501}
-    m_Translation: {x: 291, y: 144.5}
+      height: 268
+    m_Scale: {x: 4, y: 4}
+    m_Translation: {x: 28.807272, y: 2.0819843}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -202.6815
-      y: -100.64426
-      width: 405.363
-      height: 201.28851
+      x: -7.201818
+      y: -0.5204961
+      width: 145.5
+      height: 67
     m_MinimalGUI: 1
   m_defaultScale: 1
-  m_LastWindowPixelSize: {x: 582, y: 289}
+  m_LastWindowPixelSize: {x: 873, y: 433.5}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
